@@ -1,0 +1,12 @@
+body{
+    background-color: grey;
+
+}
+header{
+    background-color: lightblue;
+    text-align: center;
+}
+footer{
+    background-color: lightgreen;
+    text-align: center;
+}
